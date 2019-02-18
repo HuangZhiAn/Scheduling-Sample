@@ -4,7 +4,8 @@ Spring Job 和 Quartz 定时任务示例
 主要配置在 src/main/resources/spring/application-context.xml 文件中
 
 ### Quartz
-Quartz 使用配置文件配置需要定时调度的类和方法
+Quartz 使用配置文件配置需要定时调度的类和方法 
+
 application-context.xml
 ```xml
 <!--任务类-->
@@ -53,6 +54,7 @@ application-context.xml
 ```
 ### Spring job
 主要使用注解在需要定时调度的类和方法上直接进行配置，在配置文件中设扫描
+
 application-context.xml
 ```xml
 <!--启用spring task注解-->
