@@ -1,5 +1,5 @@
-# spring-job
-Spring Job 和 Quartz 定时任务示例
+# SchedulingDemo
+Spring-scheduling 和 Quartz 定时任务 Demo
 
 主要配置在 src/main/resources/spring/application-context.xml 文件中
 
