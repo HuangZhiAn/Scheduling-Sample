@@ -1,4 +1,4 @@
-# SchedulingDemo
+# Scheduling-Sample
 Spring-scheduling 和 Quartz 定时任务 Demo
 
 主要配置在 src/main/resources/spring/application-context.xml 文件中
