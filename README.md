@@ -74,7 +74,7 @@ public class MyTask {
     }
 }
 ```
-**CRON** 表达式如何使用？
+[**CRON** 表达式如何使用？](https://github.com/HuangZhiAn/Scheduling-Sample/blob/master/cron.md)
 
 ### Run
 
